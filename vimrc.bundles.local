@@ -1,0 +1,6 @@
+Plugin 'drewtempelmeyer/palenight.vim'
+Plugin 'TovarishFin/vim-solidity'
+Plugin 'chriskempson/base16-vim'
+Plugin 'ervandew/supertab'
+Plugin 'nanotech/jellybeans.vim'
+Plugin 'morhetz/gruvbox'
